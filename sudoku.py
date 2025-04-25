@@ -4,8 +4,6 @@ import time
 import io
 import sys
 
-from pyglet.font.directwrite import white
-
 pygame.init()
 
 WIDTH, HEIGHT = 540, 700
